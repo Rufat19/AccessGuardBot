@@ -6,3 +6,4 @@ orders.db
 # This file contains sensitive information and should not be shared
 # Uncomment the lines below to include your bot token and admin ID
 
+.env
