@@ -38,10 +38,10 @@ translations = {
         "tr": "❗ Lütfen doğru formatta numara girin. Örn: +994501234567"
     },
     "payment_info": {
-        "az": "💰 Zəhmət olmasa, aşağıdakı kart nömrəsinə ödəniş edin:",
-        "ru": "💰 Пожалуйста, оплатите на следующий номер карты:",
-        "en": "💰 Please make the payment to the card number below:",
-        "tr": "💰 Lütfen aşağıdaki kart numarasına ödeme yapınız:"
+        "az": "💰 Zəhmət olmasa, aşağıdakı kart nömrəsinə 3.70 azn ödəniş edin:",
+        "ru": "💰 Пожалуйста, 3.70 манат оплатите на следующий номер карты:",
+        "en": "💰 Please make the 3.70 azn payment to the card number below:",
+        "tr": "💰 Lütfen aşağıdaki kart numarasına 3.70 azn ödeme yapınız:"
     },
     "send_screenshot": {
         "az": "📸 Ödəniş etdikdən sonra qəbzin şəklini bu çatda paylaşın.",
